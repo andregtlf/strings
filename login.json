@@ -1,4 +1,6 @@
 {
-  "loginText": "login text",
-  "newEntry": "newEntry"
+  "header": {
+    "title": "Hello login 456",
+    "subtitle": "World! login"
+  }
 }
