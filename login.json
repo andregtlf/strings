@@ -1,6 +1,6 @@
 {
-  header: {
-    title: "Update Title",
-    subtitle": "Update subtitle"
+  "header": {
+    "title": "Update Title",
+    "subtitle": "Update subtitle"
   }
 }
