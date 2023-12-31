@@ -1,1 +1,6 @@
-"{"header":{"title":"Updated Title 5","subtitle":"World! login"}};"
+{
+  "header": {
+    "title": "Updated Title 5",
+    "subtitle": "World! login"
+  }
+}
